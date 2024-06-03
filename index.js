@@ -109,4 +109,4 @@ function displayError(message){
     card.textContent = "";
     card.style.display = "flex";
     card.appendChild(errorDisplay);
-} //displays error messages
+} //displays error message
