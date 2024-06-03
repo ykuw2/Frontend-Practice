@@ -6,6 +6,8 @@ The app is built using HTML, CSS, and JavaScript, while utilizing openweathermap
 
 <img width="300" alt="image" src="https://github.com/ykuw2/weather-app/assets/67178278/fc82772a-c75b-4cf8-bf88-50e932c06f66">
 
+If you want to give it a try: https://ykuw2.github.io/weather-app/
+
 Although I am more of a Data oriented person, with many peers studying Computer Science and pursuing Software Engineering, I wanted to dip my feet into the world of Software Engineering.
 I remembered that one of the projects that I have done in my Data Structures class, I was in charge of completing the Frontend (UI) section, which I genuinely enjoyed.
 I knew a little bit of HTML and CSS however, I knew that I would need to learn JavaScript if I wanted to tackle on Frontend Development. Thus, is why this project is done. This is my first taste of JavaScript (alongside with HTML and CSS), and I truly enjoyed learning about it.
