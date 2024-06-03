@@ -2,7 +2,7 @@
 
 This is a small project that I have completed by going over a JavaScript tutorial online. (Link: https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
-The app is built using HTML, CSS, and JavaScript, while utilizing openweathermap.org's API. By entering a city name, it can give the user the temperature (in F), humidity, weather, and the corresponding emoji. An example of the usage is shown below.
+The app is built using HTML, CSS, and JavaScript, while utilizing openweathermap.org's API. By entering a city name, it can give the user the temperature (in °F), humidity, weather, and the corresponding emoji. An example of the usage is shown below.
 
 <img width="300" alt="image" src="https://github.com/ykuw2/weather-app/assets/67178278/fc82772a-c75b-4cf8-bf88-50e932c06f66">
 
