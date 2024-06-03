@@ -1,6 +1,6 @@
 # Weather App
 
-This is a small project that I have completed by going over the JavaScript tutorial online. (Link: https://www.youtube.com/watch?v=lfmg-EJ8gm4)
+This is a small project that I have completed by going over a JavaScript tutorial online. (Link: https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
 The app is built using HTML, CSS, and JavaScript, while utilizing openweathermap.org's API. By entering a city name, it can give the user the temperature (in F), humidity, weather, and the corresponding emoji. An example of the usage is shown below.
 
