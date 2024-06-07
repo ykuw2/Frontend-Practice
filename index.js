@@ -1,8 +1,8 @@
 // WEATHER APP
 
 const weatherForm = document.querySelector(".weatherForm"); //we are not working with ids. We are working with classes here, so we are using querySelector. Returns the first element of this class.
-const cityInput = document.querySelector(".cityInput")
-const card = document.querySelector(".card")
+const cityInput = document.querySelector(".cityInput");
+const card = document.querySelector(".card");
 const apikey = "2f3599af13a84d6fefd3769bd069ad93";
 
 weatherForm.addEventListener("submit", async event => {
